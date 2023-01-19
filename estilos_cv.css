@@ -1,0 +1,30 @@
+
+*{ background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+
+    }
+
+#titulo {
+    font-style: normal;
+    font-size: xx-large;
+    color: green;
+    width: 550px
+}
+
+#lista_principal {
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+    color: darkred;
+    width: 350px;
+}
+
+#listado_interno {
+
+    font-style: normal;
+    font-size: medium;
+    color: chocolate;
+    width: 200px;
+}
